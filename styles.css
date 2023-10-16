@@ -1,0 +1,25 @@
+p{
+    color: purple;
+}
+
+
+h1{
+    color:  #fff ;
+    background-color: aqua;
+}
+
+
+body{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div{
+    background-color: blue;
+    width: 600px;
+    height: 40vh;
+    /* margin: 0 auto; */
+}
